@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<style> 
+
+</style> 
+</head> 
+<body> 
+  <table style="width:50%">
+    <tr>
+    <th> $Sq.Ft.</th> 
+    <td> $594 </td> 
+    <th> Year built </th> 
+    <td> 200 </td> 
+    </tr>
+    <tr>
+    <th> On Redfin.</th> 
+    <td> 5 days  </td> 
+    <th> Lot size  </th> 
+    <td> 1,400 Sq. Ft</td> 
+    </tr>
+    <tr>
+    <th> HOA</th> 
+    <td> $259/month  </td> 
+    <th> Status </th> 
+    <td> Active </td> 
+    </tr>

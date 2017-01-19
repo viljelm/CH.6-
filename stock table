@@ -1,0 +1,62 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<style> 
+
+</style> 
+</head> 
+<body> 
+  <table style="width:100%">
+    <tr>
+    <th> Name</th> 
+    <th> Value </th> 
+    <th> Net change</th> 
+    <th> % Change </th> 
+    <th> 1 Month </th> 
+    <th> 1 Year </th> 
+    <th> Time </th> 
+    </tr> 
+<br>
+<hr> 
+
+    <tr> 
+    <th> inbound <br> Dow Jones Indus. AVG</th> 
+    <td> 19,855.73</td> 
+    <td> -5.27</td>
+    <td>  -0.03%</td>
+    <td>+0.21%</td>
+    <td>+24.38%</td>
+    <td>1/13/2017</td> 
+    </tr> 
+    
+    <tr> 
+      <th>SPX.IND <br> S&P 500 index</th>         <td> 2,274.64 </td> 
+    <td> +4.20</td>
+    <td>  +0.18%</td>
+    <td>+0.73%</td>
+    <td>+20.97%</td>
+    <td>1/13/2017</td>
+    </tr> 
+    <tr> 
+      <th>CCMP-IND <br>NASDAQ COMPOSITE INDEX</th><td>5,574.12 </td> 
+    <td> +26.63</td>
+    <td>  +0.48%</td>
+    <td>+2.52%</td>
+    <td>+24.19%</td>
+    <td>1/13/2017</td>
+    </tr> 
+    <tr> 
+      <th>NYA-IND<br>NYSE COMPOSITE INDEX </th><td>11,227.17 </td> 
+    <td> +23.63</td>
+    <td>  +0.21%</td>
+    <td>+0.92%</td>
+    <td>+20.73%</td>
+    <td>1/13/2017</td>
+    </tr> 
+     <th>SPT*X-IND<br>S&P/TSX COMPOSITE INDEX </th><td>15,479.29 </td> 
+    <td> -17.99</td>
+    <td>  -0.12%</td>
+    <td>+1.49%</td>
+    <td>+28.21%</td>
+    <td>4:35 PM </td>
+    </tr> 

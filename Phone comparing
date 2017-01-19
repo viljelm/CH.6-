@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Home_Comparison_CH6</title>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<th></th>
+					
+					<th scope="col">Apple iPhone7</th>
+
+					<th scope="col">Google Pixel XL</th>
+					
+			  	</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th scope="row"></th>
+					<td>The Apple iPhone 7 has a 4.7 inch IPS LCD display.Powering it from within is a 64-bit Quad-Core Apple A10 Fusion proces...</td>
+					<td>Google Pixel XL is an Android 7.0 Nougat smartphone with a 5.5-inch WQHD AMOLED display.1440x2560 resolution. and 534pp..</td>
+				</tr>
+
+				<tr>
+					<th scope="row"></th>
+				<td>
+					
+       
+
+<h4 style="color:#17C2DD  ">Learn more>></h4>
+</td>
+					<td>
+					<h4 style="color:#17C2DD  ">Learn more>></h4>
+</td>
+				</tr>
+			
+				<tr>
+					<th scope="row"></th>
+					<td><h2>General</h2></td>
+					<td></td>
+				</tr>	
+				
+				<tr>
+					<th scope="row"></th>
+				<td>Operating System<br><h3>iOS</h3></br></td>
+					<td>Operating System<br><h3>Android</h3></br></td>
+				</tr>
+				<tr>
+					<th scope="row"></th>
+					<td>Device Type: <br><h3>Smartphone</h3></br></td>
+					<td>Device Type:<br><h3>Smartphone</h3></br></tr>
+				<tr>
+					<th scope="row"></th>
+					<td>Phone Form:<br><h3>Open-Faced</h3></br></td>
+					<td>Phone-Form:<br><h3>Open-Faced</h3></br></td>
+				</tr>
+		<tr>
+	<th scope="row"></th>
+			<td>Phone Manufacturer:<br><h3>Apple</h3></br></td>
+					<td>Phone Manufacturer:<br><h3>Google</h3></br></tr>
+	
+			</tbody>
+			<tfoot>
+				<tr>
+					<td></td>
+					
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+</html>
